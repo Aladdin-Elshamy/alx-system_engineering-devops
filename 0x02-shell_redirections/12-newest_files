@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Alrts | head -10
+ls -Alrts | tail -10
