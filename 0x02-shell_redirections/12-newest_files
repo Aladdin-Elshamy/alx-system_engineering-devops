@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Alrts | tail -10
+ls -Alts | tail -10
